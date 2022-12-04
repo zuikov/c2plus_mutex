@@ -1,0 +1,5 @@
+﻿  ConsoleBossApp.cpp
+C:\Users\John\source\repos\c2plus_mutex_ConsoleBossParentChildApp\ConsoleBossApp\ConsoleBossApp.cpp(195,9): warning C4477: 'printf' : format string '%S' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'char *'
+C:\Users\John\source\repos\c2plus_mutex_ConsoleBossParentChildApp\ConsoleBossApp\ConsoleBossApp.cpp(195,9): message : consider using '%hS' in the format string
+C:\Users\John\source\repos\c2plus_mutex_ConsoleBossParentChildApp\ConsoleBossApp\ConsoleBossApp.cpp(195,9): message : consider using '%TS' in the format string
+  ConsoleBossApp.vcxproj -> C:\Users\John\source\repos\c2plus_mutex_ConsoleBossParentChildApp\x64\Debug\ConsoleBossApp.exe
